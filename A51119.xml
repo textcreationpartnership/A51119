@@ -1,0 +1,176 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Spanish Otes, or, The unparallel'd imposture of Michael de Molina, executed at Madrid in the year 1641 faithfully translated out of Spanish.</title>
+            <title>Tratado de falsedades. English</title>
+            <author>Quiñones de Benavente, Juan de, 1600-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1685</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 15 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A51119</idno>
+            <idno type="STC">Wing M2386</idno>
+            <idno type="STC">ESTC R1132</idno>
+            <idno type="EEBO-CITATION">13659628</idno>
+            <idno type="OCLC">ocm 13659628</idno>
+            <idno type="VID">101068</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A51119)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 101068)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 795:34)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Spanish Otes, or, The unparallel'd imposture of Michael de Molina, executed at Madrid in the year 1641 faithfully translated out of Spanish.</title>
+                  <title>Tratado de falsedades. English</title>
+                  <author>Quiñones de Benavente, Juan de, 1600-1650.</author>
+                  <author>Molina, Miguel de, d. 1641.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for J. Bennet, and are to be sold by Walter Davis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1685.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Written by Juan de Quiñones de Benavente.  Cf. BM.</note>
+                  <note>Translation of: Tratado de falsedades.</note>
+                  <note>Includes Molina's confession.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Molina, Miguel de, d. 1641.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2010-05</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:101068:1" rendition="simple:additions"/>
+            <p>THE Spaniſh OTES, OR, The Unparallel'd IMPOSTURE OF <hi>Michael de Molina,</hi> Executed at <hi>Madrid</hi> in the Year, 1641.</p>
+            <p>Faithfully Tranſlated out of the Spaniſh.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>J. Bennet,</hi> and are to be Sold by <hi>Walter Davis</hi> in <hi>Amen-Corner,</hi> 1685.</p>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:101068:2"/>
+            <opener>
+               <signed>
+                  <hi>Michael de Molina,</hi> Of <hi>Cuenca</hi> in the Kingdom of <hi>Caſtile,</hi>
+               </signed>
+               <salute>To <hi>Titus Ambroſio,</hi> of <hi>Salamanca,</hi> in the County of <hi>Rutland,</hi> Greeting.</salute>
+            </opener>
+            <p>FEw Words are beſt, among Friends. Here's a <hi>Plot</hi> for your <hi>Plot,</hi> and a <hi>Hanging-Speech</hi> into the Bargain. The <hi>One</hi> may ſerve for your <hi>Inſtruction,</hi> and the <hi>Other</hi> for your <hi>Example.</hi>
+            </p>
+            <closer>
+               <signed>Michael de Molina.</signed>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="1" facs="tcp:101068:2"/>
+            <head>
+               <hi>The Spaniſh</hi> OTES, <hi>&amp;c.</hi>
+            </head>
+            <p>
+               <hi>MIchael de Molina,</hi> Born of Honeſt Parents at <hi>Cuenca,</hi> a City in the Kingdom of <hi>Caſtils,</hi> bred there in the Jeſuits Colledge, and after at the Univerſity of <hi>Alcala de Henares;</hi> to try his fortune, went thence to Court, where to gain a living ſpeedily, he Undertook to give <hi>Secret Intelligence</hi> to the Secretaries of the ſeveral Ambaſſadours then reſiding at that Court; and to give the more Credit to his Reports, gave out, That he was Servant to <hi>Andrew de Rojas,</hi> Cavalier of the Order of <hi>Sant Iago,</hi> and Se<g ref="char:EOLhyphen"/>cretary of the Councell of State: Inſomuch that he <hi>Forged Letters, Feigned Diſcourſes, Framed Intelligences,</hi> fitted for the Purpoſes and Affairs of the Ambaſſadours wherewith he dealt, Counterfeited the Kings Hand, <hi>Invented Cyphers,</hi> made <hi>Conſultations</hi> and <hi>Orders</hi> to the Number of 345 ſeveral Papers, and all with that dexterity, that he Deceived and Abuſed not only the Secretaries of the <hi>Emperour,</hi> the <hi>Venetian,</hi> and <hi>French</hi> Embaſſadours, but alſo and moſt of all, Don <hi>Lorenzo Coqui,</hi> Secretary to the late Don <hi>Lorenzo Campegi,</hi> Nuntio to the Pope; in whoſe Houſe he was at length Apprehended; upon whoſe Apprehenſion and Search of Papers, he told the Officers, That if the Tenor of thoſe Papers ſhould be looked upon as Jeſts and Con<g ref="char:EOLhyphen"/>ceits, he ſhould not ſpeed ſo Ill; but if as a Crime it would appear ſo great, that one life would not be enough to pay for the ſame. And <hi>his Majeſty taking notice that the buſineſs was of that Importance, that the like had not been heard or found in any Hiſtory, Cammanded that there ſhould be on purpoſe a Court of Juſtice</hi> compoſed of Two of the Chief Nobility, and Two of the Chief Judges, before whom when the ſaid <hi>Michael de Molina</hi> was ſufficiently convinced, and had made a large Confeſſion (which for its matchleſs ſtrangeneſs ſhall be <hi>Verbatim</hi> ſet down) he was ſentenced as followeth;</p>
+            <p>
+               <pb n="2" facs="tcp:101068:3"/>
+IN the Town of <hi>Madrid, July</hi> 31. 1641. the Lords of his Majeſties Counſell, who by Particular Order have taken cognizance of the Accuſation given in by Don <hi>Marcellino Faria de Guzman</hi> Attorney, Nominated by his Majeſty, for this Cauſe againſt <hi>Michael de Molina</hi> late of <hi>Cuenca,</hi> Priſoner in the Gaol of this Court for Offences and <hi>High-Treaſon,</hi> Committed by him, whereof he hath been Accuſed, do Condemn the ſaid <hi>Michael Molina</hi> to be Hanged on a Gallows, and his Goods to be Confiſcated to the Kings uſe, the Execution whereof they leave to the Lord Judge, D. <hi>John de Quinnones;</hi> and this is their Will and Pleaſure.</p>
+            <p>This Sentence was made known to the Priſoner upon the Firſt of <hi>Auguſt,</hi> and Execution done accordingly in the Placa Major of <hi>Mad<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>id,</hi> the Third day following; at which time and place the Proclama<g ref="char:EOLhyphen"/>tion uſually made at the Execution was thus;</p>
+            <p>THis is the Juſtice which the King our Sovereign Lord Com<g ref="char:EOLhyphen"/>mandeth to be done upon this man, for having Committed <hi>HIGH-TREASON,</hi> and Publiſhed <hi>FALSITIES, FORGERIES,</hi> and <hi>HORRIBLE CHEATS</hi> on the Affairs and Grave Miniſters of State; for which he Commands that he be Hanged by the Neck till he Die, to the end that it may be <hi>to him for a Puniſhment, and to others an Example;</hi> then Concludes, <hi>Quien tal haze tal pague, He that thus doeth, let him thus pay for the ſame.</hi> As he ſtood upon the Ladder ready to be turned off, he delivered in Writing to father <hi>Andrew Emanuel</hi> of the Society of <hi>Jeſus,</hi> a Declaration, the Contents whereof enſueth Word for Word.</p>
+            <p>LOyal Subjects of our Sovereign Lord the King, I am <hi>Michael de Molina,</hi> Born at <hi>Cuenca,</hi> the Grievouſneſs of my Crimes is ſo great, that a Puniſhment can hardly be invented to Equalize mine Offences againſt God, againſt our Sovereign Lord the King, whom God Preſerve, againſt the Emperour, againſt my Native Country; againſt the Lord Duke de <hi>Oliverez,</hi> and Sant <hi>Lucar,</hi> againſt the moſt Grave, Faithfull and Loyal Miniſters of State, whom I have Diſcre<g ref="char:EOLhyphen"/>dited with my Forgeries and Lies. The Clemency of the King our Sovereign (whom God preſerve) hath been very Eminent in Sen<g ref="char:EOLhyphen"/>tencing me ſo Mercifully: God grant, to whom I now go to render a Strict Account, that there be found Mercy for me in Life to come, and that I then pay not for the clemency ſhewed me here. I do here
+<pb n="3" facs="tcp:101068:3"/>declare and confeſs upon mine own free will, that <hi>not having the fear of God nor Man before mine eyes, I have been the cauſe of the greateſt part of the miſchiefs that this Monarchy ſuffereth, and of thoſe calamities and miſeries which you faithfull people yet ſuffer,</hi> for which I humbly beg pardon of all thoſe that are Abſent, as well as of you here Preſent. For <hi>I am the man that Feigned</hi> that the King our Sovereign Lord (whom God preſerve) and the Emperour, Inſtigated thereunto by the Lord Duke of Saint <hi>Lucar,</hi> and Fomented by him, did Plot the Death of our Moſt Holy Father <hi>
+                  <g ref="char:V">Ʋ</g>rban</hi> the 8th Pope, Head of the Church, and Vicar of Chriſt, for which purpoſe I Invented and Con<g ref="char:EOLhyphen"/>trived Orders of the King our Sovereign, and of the Emperour, <hi>LETTERS</hi> from the Duke, <hi>ORDERS, INSTR<g ref="char:V">Ʋ</g>CTIONS,</hi> and <hi>I<g ref="char:V">Ʋ</g>DGMENTS</hi> of the Counſellors of State, with Letters from Vice-Roys and Embaſſadours, with purpoſe to abuſe and deceive the Nuntio and the Embaſſadours of ſeveral Princes, and thereby <hi>to get Money from them, not caring for the dammage might ariſe and accrue from thence to the World, and to this Monarchy;</hi> and not contented here<g ref="char:EOLhyphen"/>with, I Invented that in caſe the ſaid Death could not be Effected, that then Endeavour ſhould be to call a Councell, and to Depoſe the Pope, or make a Schiſm in the Church. I Invented and Forged, that the Lord Duke did by Order from the King, the Emperour and the Counſell of State, Endeavour to Kid the Cardinal <hi>Rich<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>lieu,</hi> Favorit to the moſt Chriſtian King of <hi>France;</hi> for which purpoſe, and for the Death of the Pope, I Feigned Perſons that were to have been In<g ref="char:EOLhyphen"/>ſtruments of the ſame; I gave notice to the Ambaſſadours hereof, ſhewing them <hi>Letters</hi> and <hi>Orders,</hi> which I feigned as I judged meet. I made them believe that I was an Officer of the Counſell of State, &amp; that by that means I came to the knowledge of theſe <hi>Plots &amp; Conſpi<g ref="char:EOLhyphen"/>caties, whereby I have diſturbed the World, Cauſed Ielouſies, and Suſpi<g ref="char:EOLhyphen"/>cions amongſt all the Princes of <hi>Europe,</hi> and the Miſchiefs that this Mo<g ref="char:EOLhyphen"/>narchy now Suffereth.</hi> I alſo advertiſed the Embaſſadours, &amp; the Ene<g ref="char:EOLhyphen"/>mies of this State, of <hi>LETTERS, CONS<g ref="char:V">Ʋ</g>LTS, <hi>Orders</hi>
+               </hi> and <hi>Decrees,</hi> made by the King and Counſel, for driving the French out of <hi>Piemont,</hi> the Correſpondencies of the Cardinal of <hi>Savoy</hi> with the Subjects of that State, for the Effectuating the ſame; the coming of Prince <hi>Thomas</hi> from <hi>Flanders</hi> to <hi>Savoy</hi> for the ſame purpoſe, and to lay Siege to <hi>Caſal;</hi> of <hi>an Army to be raiſed,</hi> and Maintained in <hi>Alſatia;</hi> of an intention to <hi>Kill</hi> Duke <hi>Bernard de Weimar</hi> General of the <hi>Swedes,</hi> the intentions of the King our Sovereign, with the States of <hi>Venice</hi> and <hi>Genoa</hi> con<g ref="char:EOLhyphen"/>cerning <hi>Piemont</hi> and <hi>Caeſal;</hi> the purpoſe of ſupplies which both States of <hi>Venice</hi> and <hi>Gonoa</hi> would ſend to <hi>France</hi> and <hi>Holland;</hi> and the inten<g ref="char:EOLhyphen"/>tions
+<pb n="4" facs="tcp:101068:4"/>of the <hi>Pope</hi> to <hi>Aſſiſt <hi>France</hi>
+               </hi> againſt <hi>Spain;</hi> the intent of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> to league with <hi>Spain;</hi> the purpoſe that the <hi>French</hi> and <hi>Hollanders</hi> had to joyn their Fleets to hinder all ſuccours of <hi>Flanders,</hi> and to ſurpriſe the Plate-fleet, and infeſt the Coaſts of <hi>Spain;</hi> the Deſign that the <hi>Hollander</hi> had upon <hi>Antwerp</hi> in the Year 16<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>8. The Succeſs of <hi>Fontarabie;</hi> whereupon I feigned Letters from the Prince of <hi>Conde,</hi> and from the Ducheſs <hi>de Chevereuſe;</hi> alſo concerning the Impriſon<g ref="char:EOLhyphen"/>ment of Don <hi>Gualterio Peni</hi> Secretary and Reſident for <hi>France</hi> in this Court, with whom I had intimate friendſhip, which was the ground of all theſe Diſaſters: of the Secret Compliance between the Cardi<g ref="char:EOLhyphen"/>nall <hi>Infante,</hi> and the <hi>Prince of Orenge:</hi> of the Conſpiracy by the Prince of <hi>Orenge</hi> to kill the Cardinal <hi>Richelieu;</hi> the Deſign of <hi>Holland,</hi> that the States of <hi>Flanders</hi> ſhould be independent of <hi>Spain,</hi> and our King ſhould renounce his Right to the Cardinal <hi>Infanta,</hi> to the end the <hi>Hol<g ref="char:EOLhyphen"/>landers</hi> ſhould receive him, and ſubject themſelves to him: of the Capitulations and Agreement betwixt the King our Sovereign and the Duke of <hi>Modena,</hi> whereby I feigned that the ſaid Duke was to aſſiſt with Six Thouſand men, at his own charge, againſt <hi>France;</hi> and that the King was to give him the charge of Vice-Roy of <hi>Catalonia,</hi> and Twenty Thouſand Souldiers to enter into <hi>France</hi> by <hi>Catalonia,</hi> which was the firſt ground of the War at <hi>Salſas</hi> and <hi>Perpignian</hi> the Key of <hi>Catalonia;</hi> of the General Reſolutions of the Year 1639. in order to the Affairs of <hi>Germany, Flanders,</hi> and <hi>Italy:</hi> of the purpoſe to take away the Nuntio's Court in theſe Kingdoms for the diſorders and Exceſſes of the ſame: of the great Reſentments of the King our Sovereign againſt the King of <hi>France,</hi> for his Leagueing with the <hi>Swedes,</hi> his Confederation with the <hi>Turks</hi> and Proteſtant Princes of <hi>Germany,</hi> for his Protection and League with <hi>Holland;</hi> for his Com<g ref="char:EOLhyphen"/>merce with <hi>Venice</hi> and <hi>Genoa</hi> to the great diſcommodity of <hi>Spain;</hi> for the diſunion which he endeavoured to make between <hi>Spain</hi> and <hi>Eng<g ref="char:EOLhyphen"/>land:</hi> of the Reſentment that the King our Sovereign had againſt the Pope, for his Amity and Aſſiſting of <hi>France;</hi> and not his endeavour<g ref="char:EOLhyphen"/>ing rather as a Father of the whole Church to pacify the Warrs by all means poſſible; of the Deſign of changing the Commanders in Chief of all the Emperours Armies and the <hi>Spaniſh,</hi> there by to make the People deſperate, hecauſe of the failing of faith and credit; of the Recruiting and Arming the Gallies of <hi>Spain, Cicily</hi> and <hi>Naples</hi> for the maintaining commerce, ſecret intelligence in <hi>Toulon</hi> and <hi>Mar<g ref="char:EOLhyphen"/>ſeilles;</hi> of the capitulation of the <hi>Venetian</hi> with the Grand Turk: and the means whereby they drew the <hi>Turk</hi> to Aſſent to their Demands, and the little ſecurity the <hi>Turk</hi> had from them: All which I <hi>IN<g ref="char:EOLhyphen"/>VENTED,
+<pb n="5" facs="tcp:101068:4"/>FEIGNED <hi>and</hi> CONTRIVED;</hi> together with <hi>many more <hi>LETTERS, CYPHERS,</hi> Papers,</hi> &amp;c. without any intelligence, Correſpondence, or Amity with any Officer or Miniſter of State of this Kingdom, but that I alone without the help or aſſiſtance of any o<g ref="char:EOLhyphen"/>ther have <hi>Feigned</hi> and <hi>Invented</hi> all the for ſaid Deſigns, where of I gave Information to the Nuntio and his Secretary, to the ſaid Am<g ref="char:EOLhyphen"/>baſſadours, and to Monſieur de <hi>Peny</hi> with whom I have kept cor<g ref="char:EOLhyphen"/>reſpondence in <hi>France</hi> ſince the breaking forth of the Warr: the which as a Truth I Swear before God, and declare it for diſcharging my Conſcience; I ask of God forgiveneſs, alſo of the King our <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<g ref="char:EOLhyphen"/>vereign (whom God preſerve) of the Emperour, of the Lord Duke, againſt whom I directed moſt of thoſe forgeries, of the Duke of <hi>Me<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ina las Torres,</hi> of the Marques of <hi>Leganés,</hi> of the Duke of <hi>Villaher<g ref="char:EOLhyphen"/>noſa,</hi> of the Count of <hi>Oniate,</hi> of the Marques of <hi>Villa Franca,</hi> of the Marques of <hi>Mirabel,</hi> of the moſt Illuſtrious Lord Inquiſitor <hi>Generall,</hi> the Father Confeſſour of the moſt Eminent Cardinals, the Cardinal <hi>Borgia,</hi> and Cardinal <hi>Spinola,</hi> and Cardinal of <hi>Sandoval,</hi> of the Lord Don <hi>Geronimo</hi> of <hi>Villanueva,, Pronetary</hi> of <hi>Arragon,</hi> and Secretary of State, of Don <hi>Andrew de Rojas</hi> Secretary of State, of the Ambaſſadour of <hi>Genoa,</hi> and of all the reſt whom I have <hi>Falſly Defamed by Theſe <hi>FORGERIES</hi> and <hi>IMPOST<g ref="char:V">Ʋ</g>RES;</hi>
+               </hi> and alſo I ask Pardon of all the faithfull and Loyal Subjects of theſe Kingdoms, Charging them to take Example by me. And to the end that it may be manifeſted to all times, I thus make Declaration, that God may Pardon me, and for the Satisfaction of this, and all other Nations which I have diſturbed with the wickedneſs of my Inventions. In witneſs whereof I have hereunto ſet my Name, Dated in the Placa Mayor, and Place of Exe<g ref="char:EOLhyphen"/>cution in <hi>Madrid,</hi> the 3 of <hi>Auguſt,</hi> 1641. Thus Ended <hi>Michael de Molinae,</hi> in whom the <hi>Refran</hi> or <hi>Spaniſh</hi> Proverb was Verified; <hi>Quien <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n un ano quiere ſer rico al medio le ahorcan,</hi> He that will be rich in one year, ſhall be hanged at half years End.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
